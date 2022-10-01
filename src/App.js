@@ -1,7 +1,7 @@
 import './App.css';
 import Boton from './components/Boton';
 import Pantalla from './components/Pantalla';
-import imagen from './img/freeCodeCamp-logo.png';
+import imagen from './img/ALDAR.png';
 import BotonClear from './components/BotonClear';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
